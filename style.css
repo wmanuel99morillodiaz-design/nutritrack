@@ -1,5 +1,31 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
-  text-align: center;
+  background: #0f172a;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  color: #22c55e;
+}
+
+.card {
+  background: #1e293b;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+button {
+  background: #22c55e;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
 }
